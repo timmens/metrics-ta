@@ -1,0 +1,5 @@
+data/
+*.vscode
+*.pdf
+*.R
+.ipynb_checkpoints/
