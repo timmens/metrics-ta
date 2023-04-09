@@ -1,7 +1,9 @@
-# Econometrics 2 - Solutions
+# Econometrics 2 - Programming Solutions
 
-> Solutions to the computational exercises for Econometrics 2, Summer Term 2023,
-> University of Bonn
+Solutions to the computational exercises for Econometrics 2, Summer Term 2023,
+University of Bonn.
+
+> Tim Mensinger
 
 ______________________________________________________________________
 
