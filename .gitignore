@@ -3,3 +3,6 @@ data/
 *.pdf
 *.R
 .ipynb_checkpoints/
+
+submissions/
+solutions/
