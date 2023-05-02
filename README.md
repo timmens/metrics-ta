@@ -9,5 +9,4 @@ ______________________________________________________________________
 
 ## Problem Sets
 
-View by clicking here:
-[<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.org/github/timmens/metrics-ta/blob/main/ps1.ipynb)
+- [Solution Problem Set 1](https://nbviewer.org/github/timmens/metrics-ta/blob/main/ps1.ipynb)
