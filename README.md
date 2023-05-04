@@ -2,9 +2,6 @@
 
 Solutions to the computational exercises for Econometrics 2, Summer Term 2023,
 University of Bonn.
-
-> Tim Mensinger
-
 ______________________________________________________________________
 
 ## Problem Sets
