@@ -7,3 +7,4 @@ ______________________________________________________________________
 ## Problem Sets
 
 - [Solution Problem Set 1](https://nbviewer.org/github/timmens/metrics-ta/blob/main/ps1.ipynb)
+- [Solution Problem Set 2](https://nbviewer.org/github/timmens/metrics-ta/blob/main/ps2.ipynb)
