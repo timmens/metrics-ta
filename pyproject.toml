@@ -45,6 +45,9 @@ extend-ignore = [
     # long messages outside the exception class
     "TRY003",
 
+    # part of implicit name pacakge
+    "INP001",
+
 ]
 
 [tool.ruff.per-file-ignores]
