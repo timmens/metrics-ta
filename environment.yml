@@ -25,5 +25,6 @@ dependencies:
   - seaborn
   - statsmodels
   - rpy2
+  - jax
   - pip:
       - pre-commit

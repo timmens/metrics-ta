@@ -38,6 +38,5 @@ jobs:
         shell: bash -l {0}
         run: |-
           micromamba activate metrics
-          jupyter execute 2023/ps1.ipynb
           jupyter execute 2023/ps2.ipynb
           jupyter execute 2023/ps3.ipynb
