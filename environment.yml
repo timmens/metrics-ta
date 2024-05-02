@@ -26,6 +26,5 @@ dependencies:
   - statsmodels
   - rpy2
   - pre-commit
-  - pip
-  - pip:
-      - jax[cpu]
+  - jax
+  - jaxlib
