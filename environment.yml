@@ -25,6 +25,7 @@ dependencies:
   - seaborn
   - statsmodels
   - rpy2
-  - jax>=0.4.10
-  - jaxlib>=0.4.10
   - pre-commit
+  - pip
+  - pip:
+      - jax[cpu]
