@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - r
 dependencies:
-  - python==3.12
+  - python==3.11
   - click
   - estimagic
   - joblib
@@ -24,5 +24,6 @@ dependencies:
   - seaborn
   - statsmodels
   - rpy2
-  - jax
+  - jax>=0.4.10
+  - jaxlib>=0.4.10
   - pre-commit
