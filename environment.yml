@@ -2,6 +2,7 @@
 name: metrics
 channels:
   - conda-forge
+  - nodefaults
   - r
 dependencies:
   - python==3.11
