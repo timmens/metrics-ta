@@ -51,9 +51,12 @@ extend-ignore = [
     # part of implicit name pacakge
     "INP001",
 
-]
+    # print found
+    "T201",
 
-[tool.ruff.lint.per-file-ignores]
+    # missing docstring public class
+    "D101",
+]
 
 [tool.ruff.lint.pydocstyle]
 convention = "google"
