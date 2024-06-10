@@ -28,3 +28,5 @@ dependencies:
   - pre-commit
   - jax
   - jaxlib
+  - pip:
+      - pyfixest
