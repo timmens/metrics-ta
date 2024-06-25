@@ -13,6 +13,7 @@ ______________________________________________________________________
 - [Solution Problem Set 2](https://nbviewer.org/github/timmens/metrics-ta/blob/main/2024/ps2.ipynb)
 - [Solution Problem Set 3](https://nbviewer.org/github/timmens/metrics-ta/blob/main/2024/ps3.ipynb)
 - [Solution Problem Set 4](https://nbviewer.org/github/timmens/metrics-ta/blob/main/2024/ps4.ipynb)
+- [Solution Problem Set 5](https://nbviewer.org/github/timmens/metrics-ta/blob/main/2024/ps5.ipynb)
 
 ## 2023 Iteration
 
