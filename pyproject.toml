@@ -56,6 +56,9 @@ extend-ignore = [
 
     # missing docstring public class
     "D101",
+
+    # found useless expression
+    "B018",
 ]
 
 [tool.ruff.lint.pydocstyle]
